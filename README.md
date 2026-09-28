@@ -1,8 +1,9 @@
 ## Hi there 👋
-## Alexander Limanto
+### Alexander Limanto
 *Computer Science* major at Binus University.
-My CV: 
+My CV: [CV]()
 
+### Tools I've used:
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Go](https://img.shields.io/badge/GO-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
