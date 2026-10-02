@@ -1,6 +1,7 @@
 ## Hi there 👋
 ### Alexander Limanto
 *Computer Science* major at Binus University.
+
 My CV: [CV](https://drive.google.com/file/d/1XRmmKiOMNyz-PWCW9NRkC_-FfTALqnd0/view?usp=sharing)
 
 ### Tools I've used:
